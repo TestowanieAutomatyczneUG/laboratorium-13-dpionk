@@ -1,6 +1,6 @@
 Feature: Note
 
-	Feature Description
+	klasa zapisuje dane notatki, jeśli są dobrego typu.
 
 	Scenario: name none
     When trying to create a note with none as a name
