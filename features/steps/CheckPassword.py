@@ -1,6 +1,5 @@
 from behave import *
 from func.CheckPassword import CheckPassword
-from assertpy import assert_that
 
 @given("there is a password checker")
 def step_imp(context):
