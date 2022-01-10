@@ -1,6 +1,6 @@
 Feature: CheckPassword
 
-	Klasa sprawdza, czy podany ciąg znaków spełnia wymagania prawidłowego hasła (co najmniej 8 liter, 1 wielka litera, cyfra i znak specjalny)
+	Klasa sprawdza, czy podany ciąg znaków spełnia wymagania prawidłowego hasła (co najmniej 8 znaków, 1 wielka litera,1 mała, cyfra i znak specjalny)
 
 	Scenario: password "k"
 	Given there is a password checker
